@@ -23,7 +23,7 @@ The objective of the project is to gather images of entities of interest as trai
 
 - Automated script for collecting images  from the web (google image)
 - Saves images for subsequent training for computer vision.
-- Implement logging and exception handling for error tracking.
+- Implements exception handling for error tracking.
 
 ## License
 
