@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of the project is to gather image of interest as training data for computer vision projects from the web. The project was developed using object-oriented programming concepts, Selenium, automation, logging, and exception handling.
+The objective of the project is to gather images of entities of interest as training data for computer vision projects from the web. The project was developed using object-oriented programming concepts, Selenium, automation, and exception handling.
 
 ## Technologies Used
 
